@@ -1,0 +1,36 @@
+body
+{
+    margin: 0;
+
+}
+
+
+.mysite
+{
+background:coral;
+color:rgb(247, 239, 239);
+padding: 1px;
+
+}
+
+.menyu
+{
+
+background-color: #333;
+padding: 7px;
+color: 0;
+}
+
+.menyu a
+{
+color: white;
+text-decoration:none;
+
+
+}
+
+.menyu li
+{
+padding: 4px;
+list-style-type: none;
+}
